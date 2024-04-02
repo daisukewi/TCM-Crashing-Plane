@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/CrashingPlaneSpring.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/CrashingPlaneWinter.unity
+    guid: b26989e46b0d50a4d8ee28b8760bd102
   m_configObjects: {}
